@@ -1,0 +1,2 @@
+# crucible
+AI hacking challenges
